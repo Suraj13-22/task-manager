@@ -1,2 +1,18 @@
-# task-manager
-Todo App Backend This repository contains the backend code for a Todo app using Node.js and Express. Features include CRUD operations, a RESTful API, MongoDB for persistent storage, dotenv for environment variables, JSON parsing middleware, and a modular structure with organized routes, controllers, and configs.
+# Todo App Backend
+
+This repository contains the backend code for a Todo application built with Node.js and Express.
+
+## Features
+- CRUD Operations: Manage todo items.
+- RESTful API: Easy integration with frontend apps.
+- MongoDB: Database for persistent storage.
+- dotenv: Manage environment variables.
+- Express Middleware: Parse JSON request bodies.
+- Modular Structure: Organized routes, controllers, and configs.
+
+## Getting Started
+
+### Prerequisites
+- Node.js
+- MongoDB
+
